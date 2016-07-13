@@ -1,6 +1,6 @@
 This is sample text
 
-Hello World
+Hello GitWorld
 
 Hello JavaScript
 
