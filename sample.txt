@@ -1,6 +1,6 @@
 This is sample text
 
-Hello PHP
+Hello Git
 
 Hello JavaScript
 
