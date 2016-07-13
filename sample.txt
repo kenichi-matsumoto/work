@@ -1,6 +1,8 @@
 This is sample text
 
-hahaha...
+Hello PHP
+
+Hello JavaScript
 
 
 ‚­‚»‚ª
